@@ -7,3 +7,6 @@
 [submodule "DWL_USER_SERVICE"]
 	path = DWL_USER_SERVICE
 	url = https://github.com/ChackzWolf/DoWhileLearn_User_Service.git
+[submodule "DWL_CLIENT"]
+	path = DWL_CLIENT
+	url = https://github.com/ChackzWolf/DoWhileLearn_Client.git
