@@ -1,0 +1,9 @@
+[submodule "DoWhileLearn_Client"]
+	path = DoWhileLearn_Client
+	url = https://github.com/ChackzWolf/DoWhileLearn_Client.git
+[submodule "DWL_API_GATEWAY"]
+	path = DWL_API_GATEWAY
+	url = https://github.com/ChackzWolf/DoWhileLearn_API_GATEWAY.git
+[submodule "DWL_USER_SERVICE"]
+	path = DWL_USER_SERVICE
+	url = https://github.com/ChackzWolf/DoWhileLearn_User_Service.git
