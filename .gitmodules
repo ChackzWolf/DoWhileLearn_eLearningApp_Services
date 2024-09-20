@@ -16,3 +16,9 @@
 [submodule "DWL_TUTOR_SERVICE"]
 	path = DWL_TUTOR_SERVICE
 	url = https://github.com/ChackzWolf/DoWhileLearn_Tutor_Service.git
+[submodule "DWL_ADMIN_SERVICE"]
+	path = DWL_ADMIN_SERVICE
+	url = https://github.com/ChackzWolf/DoWhileLearn_Admin_Service.git
+[submodule "DoWhileLearn_Auth_Service"]
+	path = DoWhileLearn_Auth_Service
+	url = https://github.com/ChackzWolf/DoWhileLearn_Auth_Service.git
