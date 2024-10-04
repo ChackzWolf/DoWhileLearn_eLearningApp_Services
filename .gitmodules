@@ -25,3 +25,6 @@
 [submodule "DWL_ORDER_SERVICE"]
 	path = DWL_ORDER_SERVICE
 	url = https://github.com/ChackzWolf/DoWhileLearn_Order_Service.git
+[submodule "DWL_AUTH_SERVICE"]
+	path = DWL_AUTH_SERVICE
+	url = https://github.com/ChackzWolf/DoWhileLearn_Auth_Service.git
