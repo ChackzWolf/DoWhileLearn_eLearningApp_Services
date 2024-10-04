@@ -19,9 +19,9 @@
 [submodule "DWL_ADMIN_SERVICE"]
 	path = DWL_ADMIN_SERVICE
 	url = https://github.com/ChackzWolf/DoWhileLearn_Admin_Service.git
-[submodule "DWL_Auth_Service"]
-	path = DWL_Auth_Service
-	url = https://github.com/ChackzWolf/DoWhileLearn_Auth_Service.git
-[submodule "DWL_Order_Service"]
-	path = DWL_Order_Service
+[submodule "DWL_PAYMENT_SERVICE"]
+	path = DWL_PAYMENT_SERVICE
+	url = https://github.com/ChackzWolf/DoWhileLearn_Payment_Service.git
+[submodule "DWL_ORDER_SERVICE"]
+	path = DWL_ORDER_SERVICE
 	url = https://github.com/ChackzWolf/DoWhileLearn_Order_Service.git
