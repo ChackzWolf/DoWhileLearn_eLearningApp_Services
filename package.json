@@ -1,0 +1,21 @@
+{
+  "name": "dowhilelearn-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start-service1": "cd DWL_User_Service && npm start",
+    "start-service2": "cd DWL_API_gateway && npm start",
+    "start-service3": "cd DWL_AUTH_SERVICE && npm start",
+    "start-service4": "cd DWL_Admin_Service && npm start",
+    "start-service5": "cd DWL_Course_Service && npm start",
+    "start-service6": "cd DWL_Tutor_Service && npm start",
+    "start-service7": "cd DWL_Client && npm run dev",
+    "start-all": "concurrently \"npm run start-service1\" \"npm run start-service2\" \"npm run start-service3\" \"npm run start-service4\" \"npm run start-service5\" \"npm run start-service6\" \"npm run start-service7\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
