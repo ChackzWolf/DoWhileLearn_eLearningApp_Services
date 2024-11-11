@@ -28,3 +28,6 @@
 [submodule "DWL_AUTH_SERVICE"]
 	path = DWL_AUTH_SERVICE
 	url = https://github.com/ChackzWolf/DoWhileLearn_Auth_Service.git
+[submodule "DWL_COORDINATOR_SERVICE"]
+	path = DWL_COORDINATOR_SERVICE
+	url = https://github.com/ChackzWolf/DWL_Coordinator_Service.git
